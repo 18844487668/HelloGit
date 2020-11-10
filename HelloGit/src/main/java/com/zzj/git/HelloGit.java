@@ -10,5 +10,6 @@ public class HelloGit {
         System.out.println("你最近怎么样");
         System.out.println(" 主干添加");
         System.out.println("分支添加");
+        System.out.println("你的情况");
     }
 }
